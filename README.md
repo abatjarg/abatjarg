@@ -3,7 +3,7 @@
 
 I like building fun things.
 
-Skills: Swift, Objective-C, Pythong, 3G, 4G, 5G, Iot
+Skills: Swift, Objective-C, JavaScript Python, 3G, 4G, 5G, Iot
 
 - 🔭 I’m currently working on https://github.com/abatjarg/ShowTrackrProject 
 - 🌱 I’m currently learning iOS Development 
